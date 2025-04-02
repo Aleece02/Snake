@@ -37,6 +37,4 @@ Implement a high-score tracking system
 
 Include sound effects and animations
 
-## License
 
-This project is licensed under the MIT License.
